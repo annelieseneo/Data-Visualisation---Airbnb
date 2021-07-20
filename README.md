@@ -15,3 +15,5 @@ Basic Report : https://public.tableau.com/app/profile/ann3330/viz/KPMG_VirtualIn
 Dashboard : https://public.tableau.com/app/profile/ann3330/viz/KPMG_VirtualInternshipDashboard_16261771250890/Dashboard
 
 Storyboard : https://public.tableau.com/app/profile/ann3330/viz/A2Group6/DVStoryBoard#1
+
+Download dataset at https://maven-datasets.s3.amazonaws.com/Airbnb/Airbnb+Data.zip. Sourced from Inside Airbnb, this .csv file contains 5,652,855 records and 36 attributes.
